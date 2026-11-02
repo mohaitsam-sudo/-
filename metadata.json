@@ -1,0 +1,6 @@
+{
+  "name": "MOHAMED HAITHAM BUS SIMULATOR 3D",
+  "description": "Realistic 3D mobile bus simulator game featuring detailed tourist bus, open-world Egyptian city, passenger transport, realistic physics, day/night cycles, and Arabic interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
